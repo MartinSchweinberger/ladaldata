@@ -28,8 +28,8 @@
 #' @keywords datasets
 #'
 #' @examples
-#' data(iceirebio)
-#' Gender <- iceirebio$Gender
-#' Words <- iceirebio$Words
+#' data(bioiceire)
+#' Gender <- bioiceire$Gender
+#' Words <- bioiceire$Words
 #' \donttest{plot(Gender, Words)}
-"lmm"
+"bioiceire"

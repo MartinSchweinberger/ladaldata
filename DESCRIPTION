@@ -1,0 +1,11 @@
+Package: ladaldata
+Type: Package
+Title: Data sets for LADAL tutorials
+Version: 0.0.1.0
+LazyData: true
+RoxygenNote: 7.1.1
+Authors@R: person("Schweinberger", "Martin", email = "martin.schweinberger.hh@gmail.com",
+                  role = c("aut", "cre"))
+Description: This package contains data used in tutorials of the Language Technology and Data Analysis Laboratory (LADAL, see https://slcladal.github.io/index.html). 
+License: LGPL-3
+Depends: R (>= 3.5)

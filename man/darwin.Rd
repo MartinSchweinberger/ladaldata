@@ -6,7 +6,10 @@
 \title{Example data representing the text of Charles Darwin's \emph{On the Origin 
 of Species}}
 \format{
-
+A data frame with a single variable (text) consisting of 14,376 strings:
+\describe{
+  \item{text}{Text of Charles Darwin's \emph{On the Origin of Species}}
+}
 }
 \usage{
 data(darwin)
